@@ -12,4 +12,4 @@ And have to read https://reactjs.org/docs/getting-started.html
 5. Have to know how to declare state to change data using useState() hook.
 6. eventListener how to add or after click in button how to change state using onClick onMouseEvent etc.
 7. Also have know useEffect() hook like after call API have to received data from API and show the data. ANd have to know how to declare empty array and object in useEffect to stop every time calling the API.
-8. And have to understood   how to show dynamic data in component at useEffect() using mapping.
+8. And have to understood   how to show dynamic data in component at useEffect() using mapping.# react-recap-two
